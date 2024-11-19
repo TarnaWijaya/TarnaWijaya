@@ -1,5 +1,38 @@
 # 💫 About Me:
-Private ❤️‍🩹
+# Tentang Saya
+
+Halo! Saya adalah seorang programmer yang bersemangat untuk menciptakan solusi digital yang inovatif. Fokus utama saya adalah mengembangkan **aplikasi Android**, **website**, dan **solusi berbasis terminal**. Dengan pengalaman dalam berbagai teknologi, saya mengintegrasikan logika, kreativitas, dan efisiensi untuk menghasilkan produk berkualitas tinggi.
+
+---
+
+## Keahlian
+
+### 1. Pembuatan Aplikasi Android
+- Mengembangkan aplikasi menggunakan **Kotlin** atau **Java**.
+- Melakukan **integrasi API**, menggunakan database lokal (SQLite/Room), hingga teknologi cloud.
+- Fokus pada desain antarmuka yang **responsif** dan **pengalaman pengguna** yang optimal.
+
+### 2. Pembuatan Website
+- **Front-end**: Menggunakan **HTML**, **CSS**, dan **JavaScript** (React, Vue, atau Angular).
+- **Back-end**: Bekerja dengan **Node.js**, **PHP**, atau **Python** (Django/Flask).
+- Mengelola database seperti **MySQL**, **PostgreSQL**, atau **MongoDB**.
+- Selalu memperhatikan **performa**, **keamanan**, dan **aksesibilitas**.
+
+### 3. Terminal & Pemrograman Sistem
+- Mengembangkan aplikasi berbasis **CLI (Command Line Interface)** untuk berbagai kebutuhan.
+- Menggunakan **Python**, **Bash**, atau **C** untuk mengotomatisasi proses atau menciptakan alat produktivitas.
+- Memiliki pemahaman mendalam tentang sistem operasi **Linux** dan **Windows**.
+
+---
+
+## Visi
+
+Saya ingin membantu individu dan bisnis menghadirkan teknologi yang memudahkan kehidupan mereka. Setiap kode yang saya tulis bertujuan untuk:
+- **Menciptakan dampak positif**.
+- Menawarkan solusi yang **andal** dan **efisien**.
+
+Jika Anda memerlukan **aplikasi Android**, **website profesional**, atau **alat
+terminal yang handal**, saya siap membantu!
 
 
 ## 🌐 Socials:
