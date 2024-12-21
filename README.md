@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙍: Coding Sendiri
+🙍: Coding myself, I need a friend or AI to solve this
 
 
 ## 🌐 Socials:
