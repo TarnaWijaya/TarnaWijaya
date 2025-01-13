@@ -10,7 +10,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Remove previous update line
         shell: bash
@@ -20,13 +22,13 @@ jobs:
           fi
 
       - name: Ensure README file exists
-        run: |
-          touch README.md
+        run: touch README.md
 
       - name: Update README file
-        run: echo "Last update: $(date)" >> README.md
+        run: echo "Last update: $(date -u '+%Y-%m-%d %H:%M:%S %Z')" >> README.md
 
       - name: Check for changes
+        shell: bash
         run: |
           if git diff --quiet; then
             echo "No changes to commit."
@@ -43,5 +45,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add README.md
-          git commit -m "Automated commit by GitHub Actions on $(date)"
+          git commit -m "Automated commit by GitHub Actions on $(date -u '+%Y-%m-%d %H:%M:%S %Z')"
           git push origin HEAD:main
