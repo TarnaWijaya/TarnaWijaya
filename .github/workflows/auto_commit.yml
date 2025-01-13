@@ -2,7 +2,7 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Menjadwalkan tugas setiap hari pada tengah malam
+    - cron: '0 0 * * *'
 
 jobs:
   build:
