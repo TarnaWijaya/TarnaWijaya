@@ -19,6 +19,10 @@ jobs:
             sed -i '/^Last update:/d' README.md
           fi
 
+      - name: Ensure README file exists
+        run: |
+          touch README.md
+
       - name: Update README file
         run: echo "Last update: $(date)" >> README.md
 
