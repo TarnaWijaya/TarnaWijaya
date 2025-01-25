@@ -1,6 +1,6 @@
 # Hi, I'm TarnaWijaya 
 
-# About Me: 
+About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
 ![](assets/pp.png)
