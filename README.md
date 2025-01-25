@@ -3,10 +3,11 @@
 ## About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
-## GitHub Stats:
+## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarnaWijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](assets/pp.png)
 
@@ -18,7 +19,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
