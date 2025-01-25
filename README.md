@@ -6,6 +6,7 @@
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarnaWijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ![](assets/pp.png)
 
@@ -14,7 +15,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/message/UYPM2Q2UEML2C1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
