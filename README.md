@@ -15,6 +15,3 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![Active
-Users](https://img.shields.io/badge/dynamic/json?color=green&label=Active%20Users&query=value&url=https://api.countapi.xyz/get/TarnaWijaya.active-users)
