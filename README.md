@@ -16,5 +16,5 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Daily Online
-Visitors](https://img.shields.io/badge/dynamic/json?color=green&label=Online%20Today&query=value&url=https://api.countapi.xyz/get/TarnaWijaya)
+![Total
+Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Views&query=value&url=https://api.countapi.xyz/hit/TarnaWijaya.all)
