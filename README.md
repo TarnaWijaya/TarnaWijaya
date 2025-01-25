@@ -1,7 +1,7 @@
-# Hi, I'm TarnaWijaya
+# Hi, I'm TarnaWijaya 
 
-# 💫 About Me:
-🙍: Coding myself, I need a friend or AI to solve this
+# About Me: 
+I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT 
 
 ![](assets/pp.png)
 
