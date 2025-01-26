@@ -39,7 +39,7 @@
 </a>
 
 [![Harlok's WakaTime
-stats](https://github-readme-stats.vercel.app/api/wakatime?username=)](https://github.com/anuraghazra/github-readme-stats)
+stats](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
