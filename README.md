@@ -1,5 +1,6 @@
 # Hi, I'm TarnaWijaya 
 ![](assets/coding.gif)
+![](assets/TarnaWijaya-contribution.svg)
 ## About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
