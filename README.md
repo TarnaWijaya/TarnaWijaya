@@ -32,7 +32,7 @@
 </div>
 
 ![](https://github.com/TarnaWijaya/TarnaWijaya/blob/64e813a1567550acef756341919525d6411fd35b/assets/used.svg)
-![]()
+![](https://github.com/TarnaWijaya/TarnaWijaya/blob/3a3a3690df974b96bc5099ed14750becfed61f02/assets/status.svg)
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Socials:
