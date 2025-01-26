@@ -9,6 +9,7 @@
 
 ## About Me: 
 <div align="center">
+programming code:
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
 </div>
 
