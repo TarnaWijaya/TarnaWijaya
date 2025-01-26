@@ -8,7 +8,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## About Me: 
-> " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs,+if+only+I+were+like+before+so+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
+</h1>
 
 ## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
