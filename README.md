@@ -3,39 +3,9 @@
 ## About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f0f0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    .typing {
-      font-size: 24px;
-      color: #333;
-      border-right: 2px solid #333;
-      white-space: nowrap;
-      overflow: hidden;
-      width: 0;
-      animation: typing 4s steps(30, end), blink 0.5s step-end infinite alternate;
-    }
+  # Selamat Datang!
 
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-
-    @keyframes blink {
-      from { border-color: transparent; }
-      to { border-color: #333; }
-    }
-  </style>
-<body>
-  <div class="typing">Halo, selamat datang di proyek ini!</div>
-</body>
+<kbd>Halo,</kbd> <kbd>sedang mengetik...</kbd> <kbd>...</kbd>
 
 ## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
