@@ -3,7 +3,7 @@
 ## About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
-
+[](../code/ketik.html)
 
 ## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
