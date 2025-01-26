@@ -17,7 +17,9 @@
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/2655e6d007250df96fd87a9e80e06948c84dfcbb/img/icon-acode.png"
   alt="acode" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/TarnaWijaya/resources/main/icons/termux.png" alt="termux" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="chatgpt" width="48" height="48" />
+  <img
+  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
+  alt="chatgpt" width="48" height="48" />
 </div>
 
 ## GitHub Status:
