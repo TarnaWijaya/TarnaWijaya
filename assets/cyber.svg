@@ -1,0 +1,18 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg" style="background-color: black;">
+  <!-- Cyber Blade -->
+  <rect x="150" y="100" width="200" height="20" fill="lime" rx="5">
+    <animate attributeName="width" from="200" to="300" dur="1s" repeatCount="indefinite" />
+  </rect>
+  <!-- Pulse Effect -->
+  <circle cx="250" cy="110" r="10" fill="red">
+    <animate attributeName="r" from="10" to="40" dur="0.7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="1" to="0" dur="0.7s" repeatCount="indefinite" />
+  </circle>
+  <!-- Hacking Code Effect -->
+  <text x="120" y="200" font-family="monospace" font-size="20" fill="lime" opacity="0.8">
+    <tspan x="120" dy="1.2em">Initializing...</tspan>
+    <tspan x="120" dy="1.2em">Accessing Firewall...</tspan>
+    <tspan x="120" dy="1.2em">Injecting Code...</tspan>
+    <animate attributeName="y" from="200" to="150" dur="2s" repeatCount="indefinite" />
+  </text>
+</svg>
