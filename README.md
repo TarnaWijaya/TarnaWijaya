@@ -42,6 +42,7 @@
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7)
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Socials:
