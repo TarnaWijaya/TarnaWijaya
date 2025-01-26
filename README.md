@@ -3,9 +3,7 @@
 ## About Me: 
 > " I am busy with worldly affairs, if only I were like before so I could pray and repent to Allah SWT "
 
-  # Selamat Datang!
 
-<kbd>Halo,</kbd> <kbd>sedang mengetik...</kbd> <kbd>...</kbd>
 
 ## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
