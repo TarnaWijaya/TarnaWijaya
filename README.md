@@ -38,7 +38,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarnaWijaya&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
