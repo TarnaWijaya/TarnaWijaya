@@ -9,9 +9,6 @@
 
 ## About Me: 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
-</div>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
 </div>
 
@@ -26,3 +23,7 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
+</div>
