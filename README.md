@@ -32,10 +32,10 @@
 </div>
 
 <a href="https://github.com/TarnaWijaya/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/TarnaWijaya">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
