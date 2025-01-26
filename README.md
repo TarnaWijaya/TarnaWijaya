@@ -32,7 +32,7 @@
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
-![](../assets/TarnaWijaya-Most used languages.svg)
+![](../assets/TarnaWijaya-used-languages.svg)
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Socials:
