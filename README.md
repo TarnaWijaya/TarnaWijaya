@@ -9,7 +9,7 @@
 
 ## About Me: 
 <div align="center">
-### Programming code:
+<h3> Programming code: </h3>
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
 </div>
 
