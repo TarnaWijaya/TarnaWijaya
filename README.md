@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
 <h3> Tools:</h3>
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://raw.githubusercontent.com/TarnaWijaya/resources/main/icons/acode.png" alt="acode" width="48" height="48" />
+  <img src="../img/icon-acode.png" alt="acode" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/TarnaWijaya/resources/main/icons/termux.png" alt="termux" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="chatgpt" width="48" height="48" />
 </div>
