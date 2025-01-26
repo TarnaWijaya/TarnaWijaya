@@ -11,6 +11,11 @@
 <div align="center">
 <h3>Programming code:</h3>
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
+<h3> Tools:</h3>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="termux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="acode" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="openai" width="40" height="40" />
 </div>
 
 ## GitHub Status:
