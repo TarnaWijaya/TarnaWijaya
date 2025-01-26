@@ -8,7 +8,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## About Me: 
-### programming code:
+### Programming code:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
 </div>
