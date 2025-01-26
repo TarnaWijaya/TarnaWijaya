@@ -23,6 +23,9 @@
 </div>
 
 ## GitHub Status:
+  <img src="https://komarev.com/ghpvc/?username=KiworaID&style=for-the-badge&color=6F9EFF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/KiworaID?style=for-the-badge&color=6F9EFF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/KiworaID?style=for-the-badge&color=6F9EFF" alt="Stars"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TarnaWijaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
