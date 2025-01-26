@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=TarnaWijaya&style=for-the-badge&color=6F9EFF" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
-   <img src="https://img.shields.io/github/contributors/TarnaWijaya/style=for-the-badge&color=6F9EFF" alt="Contributors"/>
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
