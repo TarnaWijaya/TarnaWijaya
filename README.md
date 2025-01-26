@@ -6,7 +6,7 @@
 
 
 ![](assets/coding.gif)
-![](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-grid-snake.svg)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <div align="center">
 
