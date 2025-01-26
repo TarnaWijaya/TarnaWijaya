@@ -7,7 +7,8 @@
 ![](assets/TarnaWijaya-contribution.svg)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## About Me: <h1 align="center">
+## About Me: 
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
 </h1>
 
