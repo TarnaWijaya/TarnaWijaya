@@ -13,7 +13,7 @@
 [![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
 
 <h3>Programming code:</h3>
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java,ai" />
 <h3> Tools:</h3>
   <img src="https://skillicons.dev/icons?i=github" />
   <img
