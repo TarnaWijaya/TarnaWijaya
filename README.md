@@ -31,8 +31,12 @@
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
 </div>
 
-![](https://github.com/TarnaWijaya/TarnaWijaya/blob/64e813a1567550acef756341919525d6411fd35b/assets/used.svg)
-![](https://github.com/TarnaWijaya/TarnaWijaya/blob/3a3a3690df974b96bc5099ed14750becfed61f02/assets/status.svg)
+<a href="https://github.com/TarnaWijaya/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/TarnaWijaya">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 ![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Socials:
