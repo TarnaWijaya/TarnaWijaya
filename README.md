@@ -11,8 +11,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
 </h1>
-
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java" />
+</div>
 
 ## GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TarnaWijaya&theme=dark&hide_border=false)
