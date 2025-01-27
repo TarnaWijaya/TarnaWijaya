@@ -28,7 +28,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
   alt="chatgpt" width="48" height="48" />
   
-  <h3>Thank you friends</h3>
+  <h3>Thank you friends😊👍</h3>
 </div>
 
 ## GitHub Status:
