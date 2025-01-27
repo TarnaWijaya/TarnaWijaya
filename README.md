@@ -107,6 +107,5 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
 
-[Klik di sini untuk memutar
-audio](https://github.com/TarnaWijaya/TarnaWijaya/raw/main/assets/ARABIC-SOUND.mp3)
+[Arabic Sound](https://drive.google.com/file/d/1e3NbTLm91nQC273eEco6q-w8IGL1Bguz/view?usp=drivesdk)
 </div>
