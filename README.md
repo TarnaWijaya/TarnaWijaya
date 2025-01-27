@@ -16,7 +16,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 
 <h3>Programming code:</h3>
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,cpp,java,ai" />
-<h3> :</h3>
+<h3> Frequently used tools:</h3>
   <img src="https://skillicons.dev/icons?i=github" />
   <img
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/2655e6d007250df96fd87a9e80e06948c84dfcbb/img/icon-acode.png"
