@@ -107,5 +107,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
 
-![Sound](https://github.com/TarnaWijaya/TarnaWijaya/blob/720700b884f14747dc9675080f4a59ef625f2da8/assets/ARABIC-SOUND.mp3)
+<audio controls>
+  <source src="https://github.com/TarnaWijaya/TarnaWijaya/raw/720700b884f14747dc9675080f4a59ef625f2da8/assets/ARABIC-SOUND.mp3" type="audio/mpeg">
+</audio>
 </div>
