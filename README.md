@@ -90,17 +90,17 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 </div>
 
 <div align="center">
-  <h2>📖 Quotes Man Jadda Wajada</h2>
+  <h2>📖 Quotes Islami</h2>
   
-  <div style="background: rgba(255, 205, 105, 0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <p align="center" style="font-family: 'Georgia', serif; font-size: 1.5em; line-height: 2;">
-      مَنْ جَدَّ وَجَدَ
+  <div style="background: rgba(111, 158, 255, 0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
+    <p align="center" style="font-family: 'Traditional Arabic', serif; font-size: 1.5em; line-height: 2;">
+      حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ
     </p>
-    <p align="center" style="font-style: italic; color: #FFCD69;">
-      <b>“Siapa yang bersungguh-sungguh, pasti akan berhasil.”</b>
+    <p align="center" style="font-style: italic; color: #6F9EFF;">
+      <b>Hasbunallahu wa ni'mal wakil ni'mal maula wa ni'man nasir</b>
     </p>
     <p align="center" style="max-width: 800px; margin: 15px auto; line-height: 1.6; color: #E0E0E0;">
-      Pepatah Arab ini mengajarkan bahwa keberhasilan hanya dapat diraih dengan usaha keras, ketekunan, dan kesungguhan. Setiap perjuangan yang dilakukan dengan sepenuh hati akan membuahkan hasil yang setimpal.
+      "Cukuplah Allah menjadi penolong kami, dan Allah adalah sebaik-baik pelindung, sebaik-baik pemimpin, serta sebaik-baik penolong."
     </p>
   </div>
 </div>
