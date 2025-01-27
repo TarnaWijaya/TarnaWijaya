@@ -28,6 +28,15 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
   alt="chatgpt" width="48" height="48" />
+  <img
+  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/9f5cfff220aad8e02567dd31f4fd65130ff5cec1/img/icon-zarchiver.png"
+  alt="zarchiver" width="48" height="48" />
+  <img
+  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/8298280feb4a38f5a560bf0cbdf4d31761e39416/img/icon-crome.png"
+  alt="crome" width="48" height="48" />
+  <img
+  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/8298280feb4a38f5a560bf0cbdf4d31761e39416/img/icon-mt.jpg"
+  alt="mt" width="48" height="48" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=Thank+you+friend;For+always+being+there;I+appreciate+you+so+much" alt="Typing SVG" />
 </div>
