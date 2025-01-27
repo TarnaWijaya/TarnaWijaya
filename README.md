@@ -28,7 +28,9 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
   alt="chatgpt" width="48" height="48" />
   
-  <h2>Thank you friends😊👍</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=Thank+you+friend;For+always+being+there;I+appreciate+you+so+much" alt="Typing SVG" />
+</div>
 </div>
 
 ## GitHub Status:
