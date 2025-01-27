@@ -35,16 +35,32 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
   
-<a href="https://github.com/TarnaWijaya/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/TarnaWijaya">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7)
-![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/TarnaWijaya/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TarnaWijaya">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/TarnaWijaya">
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TarnaWijaya">
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 ## Socials:
