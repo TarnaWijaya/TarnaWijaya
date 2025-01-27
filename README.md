@@ -103,9 +103,9 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
       "Cukuplah Allah menjadi penolong kami, dan Allah adalah sebaik-baik pelindung, sebaik-baik pemimpin, serta sebaik-baik penolong."
     </p>
   </div>
+[Arabic Sound](https://files.catbox.moe/u7xw6k.mp3)
+
   <img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
-
-[Arabic Sound](https://files.catbox.moe/u7xw6k.mp3)
 </div>
