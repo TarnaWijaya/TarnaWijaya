@@ -103,7 +103,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
       "Cukuplah Allah menjadi penolong kami, dan Allah adalah sebaik-baik pelindung, sebaik-baik pemimpin, serta sebaik-baik penolong."
     </p>
   </div>
-</div>
-<img width="100%"
+  <img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
+</div>
