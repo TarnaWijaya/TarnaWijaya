@@ -89,7 +89,21 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
 </div>
 
-
+<div align="center">
+  <h2>📖 Quotes Man Jadda Wajada</h2>
+  
+  <div style="background: rgba(255, 205, 105, 0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
+    <p align="center" style="font-family: 'Georgia', serif; font-size: 1.5em; line-height: 2;">
+      مَنْ جَدَّ وَجَدَ
+    </p>
+    <p align="center" style="font-style: italic; color: #FFCD69;">
+      <b>“Siapa yang bersungguh-sungguh, pasti akan berhasil.”</b>
+    </p>
+    <p align="center" style="max-width: 800px; margin: 15px auto; line-height: 1.6; color: #E0E0E0;">
+      Pepatah Arab ini mengajarkan bahwa keberhasilan hanya dapat diraih dengan usaha keras, ketekunan, dan kesungguhan. Setiap perjuangan yang dilakukan dengan sepenuh hati akan membuahkan hasil yang setimpal.
+    </p>
+  </div>
+</div>
 <img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
