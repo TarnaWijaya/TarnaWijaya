@@ -35,25 +35,18 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
   
-  <a href="https://github.com/TarnaWijaya/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/TarnaWijaya/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/TarnaWijaya">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/TarnaWijaya">
-  <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark" />
-</a>
-<a href="https://github.com/TarnaWijaya">
-  <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7" />
-</a>
-<a href="https://github.com/TarnaWijaya">
-  <img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7)
+![](https://github-profile-trophy.vercel.app/?username=TarnaWijaya&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YcNT5ydt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ByTarnaWijaya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bytarnawijaya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tarna612010) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TarnaWijaya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@axs_tarna) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tarnawijaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TarnaWijaya_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@XTarnaWijaya) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/message/UYPM2Q2UEML2C1)
