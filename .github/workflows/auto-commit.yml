@@ -2,7 +2,7 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # Menjadwalkan workflow ini berjalan setiap hari pada tengah malam
+    - cron: '0 */24 * * *'  # Menjadwalkan workflow ini berjalan setiap hari pada tengah malam
   push:
     branches:
       - main  # Sesuaikan dengan branch yang Anda gunakan
