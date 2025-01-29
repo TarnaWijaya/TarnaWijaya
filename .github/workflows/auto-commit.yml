@@ -1,0 +1,39 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Menjadwalkan workflow ini berjalan setiap hari pada tengah malam
+  push:
+    branches:
+      - main  # Sesuaikan dengan branch yang Anda gunakan
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git config
+        run: |
+          git config --global user.name 'TarnaWijaya'
+          git config --global user.email 'tarnaindramayuu@gmail.com'
+
+      - name: Make changes
+        run: |
+          echo "Automated commit on $(date)" >> commit_log.txt
+
+      - name: Add changes to Git
+        run: |
+          git add commit_log.txt
+
+      - name: Commit changes
+        run: |
+          git commit -m "Automated commit on $(date)"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push origin main
