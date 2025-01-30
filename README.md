@@ -24,7 +24,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 <h3> Frequently used tools:</h3>
   <img src="https://skillicons.dev/icons?i=github,gitlab,gmail" />
   <img
-  src="https://github.com/acode.png"
+  src="https://github.com/Acode.png"
   alt="acode" width="48" height="48" />
   <img
   src="https://github.com/termux.png"
