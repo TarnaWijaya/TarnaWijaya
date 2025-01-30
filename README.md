@@ -27,7 +27,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/2655e6d007250df96fd87a9e80e06948c84dfcbb/img/icon-acode.png"
   alt="acode" width="48" height="48" />
   <img
-  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/f81e8d6e0994b80b7961700ff3d48bfd44a5fa3d/img/icon-termux.png"
+  src="https://github.com/termux.png"
   alt="termux" width="48" height="48" />
   <img
   src="https://github.com/openai.png"
