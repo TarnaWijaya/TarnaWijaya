@@ -30,7 +30,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/f81e8d6e0994b80b7961700ff3d48bfd44a5fa3d/img/icon-termux.png"
   alt="termux" width="48" height="48" />
   <img
-  src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
+  src="https://github.com/openai.png"
   alt="chatgpt" width="48" height="48" />
   <img
   src="https://github.com/deepseek-ai.png"
