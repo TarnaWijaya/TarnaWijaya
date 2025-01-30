@@ -33,6 +33,9 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/89885e7091e7f613252d11ef1401f854e478a316/img/icon-chatgpt.png"
   alt="chatgpt" width="48" height="48" />
   <img
+  src="https://github.com/deepseek-ai.png"
+  alt="deepseek-ai" width="48" height="48" />
+  <img
   src="https://github.com/TarnaWijaya/TarnaWijaya/blob/9f5cfff220aad8e02567dd31f4fd65130ff5cec1/img/icon-zarchiver.png"
   alt="zarchiver" width="48" height="48" />
   <img
