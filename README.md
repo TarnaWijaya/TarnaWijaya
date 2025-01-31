@@ -119,6 +119,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&s
 </div>
 <div align="center">
 
-![History](https://github.com/TarnaWijaya/TarnaWijaya/blob/12cceeb71460cf3ce81af3aa85b5b35dc5f5fdc9/history.txt)
+![History](history.txt)
   
 </div>
