@@ -117,3 +117,8 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&section=footer"
 />
 </div>
+<div align="center">
+
+![](history.txt)
+  
+</div>
