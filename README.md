@@ -57,7 +57,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
   <a href="https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n" target="_blank" style="text-decoration: none;">
-  <div style="display: inline-flex; align-items: center; background-color: #6F9EFF; padding: 10px 20px; border-radius: 5px; color: white; font-family: Arial, sans-serif; font-size: 16px;">
+  <div style="display: inline-flex; background-color: #6F9EFF; padding: 10px 20px; border-radius: 5px; color: white; font-family: Arial, sans-serif; font-size: 16px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" style="width: 24px; height: 24px; margin-right: 10px;">
     Join Group
   </div>
