@@ -62,7 +62,8 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
     <span style="vertical-align: middle;">Join Group</span>
   </div>
 </a>
-  
+</div>
+<div>
 <table>
   <tr>
     <td align="center">
