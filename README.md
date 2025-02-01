@@ -59,7 +59,6 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 
   [![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
  
-
 </div>
 <div>
 <table>
