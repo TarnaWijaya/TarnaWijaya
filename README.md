@@ -56,7 +56,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://komarev.com/ghpvc/?username=TarnaWijaya&style=for-the-badge&color=6F9EFF" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
-  <img src="./assets/pp.png" href="https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n">
+  <img src="https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n">
 </a>
 </div>
 <div>
