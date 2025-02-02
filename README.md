@@ -58,6 +58,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
 
   [![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
+  [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/TarnaWijaya_grup)
  
 </div>
 <div>
