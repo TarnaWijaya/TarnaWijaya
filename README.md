@@ -92,7 +92,8 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 
 ## Socials:
 <div align="center">
-[![Link Shortener](https://img.shields.io/badge/Link_Shortener-Access_Here-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://tarna-wijaya.vercel.app)
+  
+[![ALL LINKS](https://img.shields.io/badge/Link_Shortener-Access_Here-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://tarna-wijaya.vercel.app)
 
 </div>
 
