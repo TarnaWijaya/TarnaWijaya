@@ -90,8 +90,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 </table>
 </div>
 
-[![Harlok's WakaTime
-stats](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials:
 <div align="center">
