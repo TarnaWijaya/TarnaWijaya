@@ -18,11 +18,7 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 	<br><br>
 	<code>Terimakasih sudah mampir jangan lupa mampir lagi ya🤗</code>
 </p>
-
 <div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
-
 <h3>Programming language code:</h3>
   <img
   src="https://skillicons.dev/icons?i=python,bash,html,js,md,php,java,cpp,rust"
@@ -98,6 +94,8 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 <div align="center">
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/TarnaWijaya)
+[![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
+
 </div>
 
 ## Socials:
