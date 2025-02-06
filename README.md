@@ -13,6 +13,12 @@
 gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+	<img src="https://moe-counter.glitch.me/get/@TarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
+	<br><br>
+	<code>Terimakasih sudah mampir jangan lupa mampir lagi ya🤗</code>
+</p>
+
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
@@ -90,11 +96,6 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 </table>
 </div>
 <div align="center">
-<p align="center">
-	<img src="https://moe-counter.glitch.me/get/@TarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
-	<br><br>
-	<code>Terimakasih sudah mampir jangan lupa mampir lagi ya🤗</code>
-</p>
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/TarnaWijaya)
 </div>
