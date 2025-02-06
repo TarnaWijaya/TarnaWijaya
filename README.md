@@ -136,6 +136,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=6F9EFF&height=120&s
 </div>
 <div align="center">
 
-![History](history.txt)
+[History](history.txt)
   
 </div>
