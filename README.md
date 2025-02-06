@@ -89,9 +89,10 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   </tr>
 </table>
 </div>
+<div align="center">
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ## Socials:
 <div align="center">
   
