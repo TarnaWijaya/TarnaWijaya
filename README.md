@@ -90,8 +90,13 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
 </table>
 </div>
 <div align="center">
+<p align="center">
+	<img src="https://moe-counter.glitch.me/get/@TarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
+	<br><br>
+	<code>Terimakasih sudah mampir jangan lupa mampir lagi ya🤗</code>
+</p>
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://github.com/TarnaWijaya)
 </div>
 
 ## Socials:
