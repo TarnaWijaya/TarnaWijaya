@@ -63,6 +63,11 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
   [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/TarnaWijaya_grup)
  
 </div>
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
+
+</div>
 <div>
 <table>
   <tr>
@@ -90,11 +95,6 @@ gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-
     </td>
   </tr>
 </table>
-</div>
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
-
 </div>
 
 ## Socials:
