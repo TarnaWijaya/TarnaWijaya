@@ -5,9 +5,10 @@
   <img
   src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Tarna+Wijaya;I+live+in+Indramayu🥭;I+love+coding🥰😍❤️❤️‍🔥❤️‍🩹"
   alt="Typing SVG" />
+  
+  [![LinksShort](https://img.shields.io/badge/LinksShort-Lihat-32CD32?style=for-the-badge&logo=https://github.com/TarnaWijaya.png&logoColor=white)](https://tarna-wijaya.vercel.app)
+  
 </div>
-
-[![LinksShort](https://img.shields.io/badge/LinksShort-Lihat-32CD32?style=for-the-badge&logo=https://github.com/TarnaWijaya.png&logoColor=white)](https://tarna-wijaya.vercel.app)
 
 ![](assets/coding.gif)
 ![snake
