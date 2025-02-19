@@ -11,10 +11,9 @@
 </div>
 
 ![](assets/coding.gif)
-![snake
-gif](https://github.com/TarnaWijaya/TarnaWijaya/blob/output/github-contribution-grid-snake-dark.svg)
-
+![](https://github.com/TarnaWijaya/TarnaWijaya/raw/refs/heads/JavaScript/main.js)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@TarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
 	<br><br>
